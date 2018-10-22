@@ -1,0 +1,16 @@
+body {
+    margin: 20px;
+    padding: 0%;
+    background: darkgray;
+}
+
+
+.container {
+    max-width: 760px;
+    margin: auto;
+    border: #fff solid 3px;
+}
+
+.grid-container {
+    display: inline-grid;
+}
