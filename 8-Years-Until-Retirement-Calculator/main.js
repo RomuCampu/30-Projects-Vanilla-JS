@@ -9,17 +9,27 @@ var ageChuqui = calculateAge(1981);
 
 console.log(ageJaqui, ageCari, ageMami, ageChuqui);
 
+
 function yearsUntilRetirment(year, firstName) {
     var age = calculateAge(year);
     var retirement = 67 - age;
     if (firstName == 'Chuqui') retirement = retirement - 17
-    if (firstName == 'Mami') retirement = firstName + ' is already retired'
+    if (firstName == 'Mami') retirement = firstName + ' is already retired';
     if (retirement > 0) {
         return firstName + ' retires in ' + retirement + ' Years';
     } else {
         return firstName + ' is already retired';
     }
 }
+
+// function userInput() {
+//     if () {
+
+//     } else {
+
+//     }
+// }
+
 console.log(yearsUntilRetirment(1981, 'Chuqui'));
 console.log(yearsUntilRetirment(1978, 'Jaqui'));
 console.log(yearsUntilRetirment(1983, 'Carina'));
