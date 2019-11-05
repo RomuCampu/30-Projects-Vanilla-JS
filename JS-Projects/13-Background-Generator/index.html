@@ -1,18 +1,22 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<title>Gradient Background</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body id="gradient">
-	<h1>Background Generator</h1>
-	<h2>Current CSS Background</h2>
-	<h3></h3>
-	<input class ="color1" type="color" name="color1" value="#00ff00">
-	<input class ="color2" type="color" name="color2" value="#ff0000">
+  <head>
+    <meta charset="utf-8" />
+    <title>Gradient Background</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
+  </head>
+  <body id="gradient">
+    <h1>Background Generator</h1>
+    <h2>Current CSS Background</h2>
+    <h3 id="h3"></h3>
+    <input class="color1" type="color" name="color1" value="#00ff00" />
+    <input class="color2" type="color" name="color2" value="#ff0000" />
 
+    <button onclick="copyToClipboard('#h3')">Copy to clipboard</button>
+    <!-- <button onclick="alert(document.cookie)"> cookies</button> -->
 
-<script type="text/javascript" src="script.js"></script>
-</body>
+    <script type="text/javascript" src="script.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  </body>
 </html>
