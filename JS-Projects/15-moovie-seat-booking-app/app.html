@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>App</title>
+</head>
+
+<body>
+
+ <div>
+  <p>amount to spend: <span id="total" class="total"></span> </p>
+  <input type="text" />
+ </div>
+
+
+ <script>
+  const total = document.getElementsByClassName("total");
+  const input = document.querySelector("input");
+
+  input.addEventListener("change", e => {
+   let value = e.target.value;
+   document.getElementById("total").textContent = value + "€";
+   event.target.value = ""
+  });
+
+  // 
+
+
+  const addTotal = () => {
+
+  }
+
+ </script>
+</body>
+
+</html>
