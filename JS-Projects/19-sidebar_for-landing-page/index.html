@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Landingpage</title>
+ <link rel="stylesheet" href="style.css">
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"
+  integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous" />
+
+</head>
+
+<body>
+ <nav>
+  <div class="logo">
+   <img src="https://randomuser.me/api/portraits/men/76.jpg" alt="random-person">
+  </div>
+  <ul>
+   <li><a href="#">Home</a></li>
+   <li><a href="#">About</a></li>
+   <li><a href="#">Blog</a></li>
+   <li><a href="#">Contact</a></li>
+  </ul>
+ </nav>
+
+ <header>
+  <button id="toggle" class="toggle">
+   <i class="fa fa-bars fa-2x"></i>
+  </button>
+
+  <h1>Some Landing page</h1>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, cupiditate?</p>
+
+  <button class="cta-btn" id="open">Sign up</button>
+ </header>
+
+ <div class="container">
+  <h2>Some more text</h2>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit beatae fugiat et eveniet tenetur cum quo,
+   reprehenderit assumenda est aperiam ex minus totam quam, at sint deserunt quia eaque aliquid.
+  </p>
+  <h2>Tell me more</h2>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi dignissimos impedit eligendi rem sunt ut, velit
+   quisquam dicta sapiente voluptatibus?
+  </p>
+
+  <h2>Benefits</h2>
+  <ul>
+   <li>Lifetime access</li>
+   <li>30 Day Money Back</li>
+   <li>Customeer Support</li>
+  </ul>
+
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias in minus natus quae, cum atque beatae illo
+   fugiat autem laboriosam! Delectus distinctio voluptate quae. Quia, placeat vel! Eum laudantium deserunt error.
+   Similique consequuntur possimus quisquam. Quas asperiores necessitatibus veritatis doloribus quos. Quas ad quam
+   corporis, veritatis facilis, similique rem mollitia nisi recusandae harum cumque expedita, necessitatibus facere
+   saepe animi? Ut optio et officia eius fuga, illum omnis aspernatur quos illo.
+  </p>
+
+ </div>
+
+ <!-- Modal -->
+ <div class="modal-container" id="modal">
+  <div class="modal">
+   <button class="close-btn" id="close">
+    <i class="fa fa-times"></i>
+   </button>
+   <div class="modal-header">
+    <h3>Sign up</h3>
+   </div>
+   <div class="modal-content">
+    <p>Register with us to get span</p>
+    <form action="" class="modal-form">
+     <div>
+      <label for="name">Name</label>
+      <input id="name" class="form-input" type="text" placeholder="Enter name">
+     </div>
+     <div>
+      <label for="email">Email</label>
+      <input id="email" class="form-input" type="email" placeholder="Enter email">
+     </div>
+     <div>
+      <label for="password">Password</label>
+      <input id="password" class="form-input" type="password" placeholder="Enter password">
+     </div>
+     <div>
+      <label for="password2">Confirm password</label>
+      <input id="password2" class="form-input" type="password" placeholder="Confirm password">
+     </div>
+     <input type="submit" value="Submit" class="submit-btn">
+
+    </form>
+   </div>
+  </div>
+ </div>
+
+
+
+ <script src="app.js"></script>
+</body>
+
+</html>
