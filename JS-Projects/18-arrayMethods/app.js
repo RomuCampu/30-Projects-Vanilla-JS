@@ -5,7 +5,7 @@ const sortBtn = document.getElementById('sort');
 const millionairesBtn = document.getElementById('show-millionaires');
 const wealthBtn = document.getElementById('calculate-wealth');
 
-// let data = []
+let data = []
 getRandomUser();
 getRandomUser();
 getRandomUser();
