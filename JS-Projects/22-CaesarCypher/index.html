@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="./style.css">
+ <title>Caesars Cipher</title>
+</head>
+
+<body>
+ <div class="container">
+  <h1>Caesars Cypher</h1>
+  <div id="form" onsubmit="return false">
+   <input id="input-value" type="text" value="" placeholder="Enter a word" />
+   <input id="btn" class="submit-btn" type="button" value="Cipher" onclick="handleUserInput()">
+  </div>
+
+  <section id="result-section" class="hideElement">
+   <h3 id="result-placeholder"></h3>
+  </section>
+ </div>
+
+
+ <script src="./app.js"></script>
+</body>
+
+</html>
