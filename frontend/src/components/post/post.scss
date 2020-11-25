@@ -1,0 +1,29 @@
+.card-wrapper {
+ color: rgb(30, 255, 0);
+ // background-color: green;
+ // display: flex;
+ // align-items: stretch;
+ // justify-content: center;
+}
+
+.cell{
+ display: flex;
+ align-items: stretch;
+}
+
+.clearfix {
+ zoom: 1;
+}
+
+.clearfix:after {
+ content: '.';
+ clear: both;
+ display: block;
+ height: 0;
+ visibility: hidden;
+}
+
+.notVisible {
+ // visibility: hidden;
+ display: none;
+}

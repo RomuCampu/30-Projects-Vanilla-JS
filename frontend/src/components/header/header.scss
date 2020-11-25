@@ -1,0 +1,76 @@
+.header {
+ height: 65px;
+ width: 100%;
+ display: flex;
+ justify-content: space-between;
+ margin-bottom: 25px;
+ // background-color: rgba(0,0,0, 0.2);
+ // #EDEDF4
+
+ .logo-container {
+   height: 100%;
+   width: 70px;
+   padding: 20px;
+   // background-color: rgb(83, 94, 94);
+   background-color: rgba(200, 200, 200, 0.1);
+   font-weight: bold;
+
+   a {
+    color: cyan;
+   // color: #368F8B;
+   // color: #072AC8;
+
+    text-decoration: none;
+   }
+ }
+
+ .options {
+   width: 50%;
+   height: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: flex-end;
+   margin-right: 10px;
+
+   .option {
+     padding: 10px 15px;
+     cursor: pointer;
+     color: cyan;
+     border-bottom: 1px solid transparent;
+     border-left: 1px solid transparent;
+     font-size: 12px;
+     font-weight: bold;
+     text-decoration: underline transparent 1px;
+     border-radius: 3%;
+     background-color: rgba(200, 200, 200, 0.1);
+     margin-left: 5px;
+   }
+
+   .option:hover {
+    transition: ease-in-out 1s;
+    border-radius: 3px;
+    background-color: rgba(253, 249, 249, 0.2);
+    border-bottom: 1px solid cyan;
+    border-left: 1px solid cyan;
+    color: yellow;
+   }
+
+   .option:visited {
+    transition: ease-in-out 1s;
+    border-radius: 3px;
+    background-color: rgba(253, 249, 249, 0.2);
+    border-bottom: 1px solid cyan;
+    border-left: 1px solid cyan;
+    color:yellow;
+   }
+
+   //  .option:active {
+   //  transition: ease-in-out 1s;
+   //  border-radius: 3px;
+   //  background-color: rgba(253, 249, 249, 0.2);
+   //  border-bottom: 1px solid cyan;
+   //  border-left: 1px solid cyan;
+   //  color: yellow;
+   // }
+ }
+}

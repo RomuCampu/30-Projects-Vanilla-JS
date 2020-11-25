@@ -1,0 +1,28 @@
+.box-container {
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ /* align-items: center; */
+}
+
+.inner-grid {
+ height: 100vh;
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr;
+ grid-template-rows: 1fr 1fr 1fr;
+}
+
+.ABC {
+ background-color: rgba(98, 137, 253, 0.4);
+ opacity: 0.7;
+}
+
+.CDE {
+ background-color: rgba(225, 65, 185, 0.5);
+ opacity: 0.7;
+}
+
+.EFG {
+ background-color: rgb(65, 225, 73);
+ opacity: 0.8;
+}

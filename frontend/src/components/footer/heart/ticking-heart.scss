@@ -1,0 +1,21 @@
+.heart-wrapper {
+ margin-top: 15px
+}
+
+.heart {
+ fill: red;
+ position: relative;
+ top: 2px;
+ width: 11px;
+ animation: pulse 1s ease infinite;
+}
+
+@keyframes pulse {
+ 0% { transform: scale(1); }
+ 50% { transform: scale(1.3); }
+ 100% { transform: scale(1); }
+}
+
+.heart-text {
+ font-size: 80%;
+}

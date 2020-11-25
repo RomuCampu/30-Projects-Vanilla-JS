@@ -1,0 +1,53 @@
+.group {
+ position: relative;
+ margin: 45px 0;
+ margin-left: 12%;
+}
+
+.group .form-input {
+ background: none;
+ background-color: rgba(255, 255, 255, 0.1);
+ color: white;
+ font-size: 18px;
+ padding: 10px 10px 10px 5px;
+ display: block;
+ width: 80%;
+ border: none;
+ border-radius: 0;
+ border-bottom: .5px solid transparent;
+ margin: 25px 0;
+}
+
+.group .form-input:focus {
+ outline: none;
+ border-bottom: .5px solid rgb(56, 252, 252);
+ transition: 900ms ease all;
+}
+
+.group .form-input:focus~.form-input-label {
+ top: -30px;
+ font-size: 20px;
+ color: yellow;
+ text-decoration: underline;
+}
+
+.group input[type=password] {
+ letter-spacing: 0.3em;
+}
+
+.group .form-input-label {
+ color: cyan;
+ font-size: 16px;
+ font-weight: 500;
+ position: absolute;
+ pointer-events: none;
+ left: 5px;
+ top: 10px;
+ transition: 900ms ease all;
+}
+
+.group .form-input-label.shrink {
+ top: -25px;
+ font-size: 17px;
+ color: rgb(173, 166, 166);
+}
