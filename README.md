@@ -9,21 +9,21 @@
  
  |Project | Link to project folder |
  |---------|------------------|
- |    1    | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    2    | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    3    | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    4    | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    5    | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    6    | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    7    | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    8    | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    9    | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    10   | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    11   | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    12   | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    13   | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    14   | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    15   | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    16   | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    17   | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
- |    18   | [Name](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name)|
+ |    1    | [Drum Kit](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/1-Drum-kit)|
+ |    2    | [Clock](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/2-CSS-Clock)|
+ |    3    | [Bookmarker](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/3-Bookmaker)|
+ |    4    | [Filterable List](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/4-FilterableList)|
+ |    5    | [Image Gallery](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/6-Image-Gallery)|
+ |    6    | [To Roman Number Converter](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/21-ToRomanNumberConverter)|
+ |    7    | [Img Galleries](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/7-Img-Galleries)|
+ |    8    | [Years Until Retirement Calculator](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/8-Years-Until-Retirement-Calculator)|
+ |    9    | [Dice Game](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/9-Dice-Game)|
+ |    10   | [Type-Writer-Effect](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/10-Type-Writer-Effect)|
+ |    11   | [Theme Changer](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/11-Change-Theme)|
+ |    12   | [Todolist](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/12-TodoList)|
+ |    13   | [Background Generator](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/13-Background-Generator)|
+ |    14   | [Form Validator](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/14-formValidator)|
+ |    15   | [Movie Sit Booking App](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/15-movie-seat-booking-app)|
+ |    16   | [VideoPlayer](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/16-videoPlayer)|
+ |    17   | [Array Method Visualisation](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/18-arrayMethods)|
+ |    18   | [Sidebar For Landing Page](https://github.com/RomuCampu/JS-Projects/tree/master/JS-Projects/19-sidebar_for-landing-page)|
