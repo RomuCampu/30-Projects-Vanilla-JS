@@ -1,6 +1,6 @@
 <h1 align='center'>Just another JavaScript playground.</h1> 
 
-<p align='center'>This repo only purpose is to tteach myself Javascript by building usfull projects</p>
+<p align='center'>This repo only purpose is to teach myself Javascript by building "usefull" projects</p>
 <p></p>
 
  <h2 align="center">Projects</h2></p>
